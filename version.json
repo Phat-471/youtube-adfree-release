@@ -1,6 +1,6 @@
-﻿{
-    "changelog":  "Ban Nang Cap Giao Dien Toan Dien (v1.2.0):\n- Explore: Hero gradient banner, Featured video card, chip loc danh muc dep mat.\n- Subscriptions: Avatar kenh thuc tren thanh cuon, vien neon tinh te.\n- Search: Thanh tim kiem bo tron vien gradient, goi y tu khoa xu huong, lich su dang pill.\n- You Screen: Profile banner VIP, thong ke gio xem/video da xem, Nghe lai nhieu nhat \u0026 Danh cho ban.",
-    "versionCode":  12,
-    "versionName":  "1.2.0",
-    "downloadUrl":  "https://github.com/Phat-471/youtube-adfree-release/releases/download/v1.2.0/app-debug.apk"
+{
+  "changelog": "Ban Nang Cap Giao Dien Toan Dien (v1.2.0):\n- Explore: Hero gradient banner, Featured video card, chip loc danh muc dep mat.\n- Subscriptions: Avatar kenh thuc tren thanh cuon, vien neon tinh te.\n- Search: Thanh tim kiem bo tron vien gradient, goi y tu khoa xu huong, lich su dang pill.\n- You Screen: Profile banner VIP, thong ke gio xem/video da xem, Nghe lai nhieu nhat & Danh cho ban.",
+  "versionCode": 12,
+  "versionName": "1.2.0",
+  "downloadUrl": "https://github.com/Phat-471/youtube-adfree-release/releases/download/v1.2.0/app-debug.apk"
 }
