@@ -1,6 +1,6 @@
 {
-  "changelog": "Ban Nang Cap Giao Dien Toan Dien (v1.2.0):\n- Explore: Hero gradient banner, Featured video card, chip loc danh muc dep mat.\n- Subscriptions: Avatar kenh thuc tren thanh cuon, vien neon tinh te.\n- Search: Thanh tim kiem bo tron vien gradient, goi y tu khoa xu huong, lich su dang pill.\n- You Screen: Profile banner VIP, thong ke gio xem/video da xem, Nghe lai nhieu nhat & Danh cho ban.",
-  "versionCode": 12,
-  "versionName": "1.2.0",
-  "downloadUrl": "https://github.com/Phat-471/youtube-adfree-release/releases/download/v1.2.0/app-debug.apk"
+  "versionCode": 13,
+  "versionName": "1.3.0",
+  "changelog": "Bản Cập Nhật Phát Tube (v1.3.0):\n- Chính thức đổi tên ứng dụng thành 'Phát Tube'.\n- Nâng Cấp Giao Diện Toàn Diện (Explore, Subscriptions, Search, You, Favorites, Downloads).\n- Video Yêu Thích & Nội Dung Ngoại Tuyến: Thêm nút Phát Tất Cả & Trộn Bài, tìm kiếm lọc tức thì.\n- Tối ưu hóa cập nhật tự động an toàn và mượt mà.",
+  "downloadUrl": "https://github.com/Phat-471/youtube-adfree-release/releases/download/v1.3.0/app-debug.apk"
 }
