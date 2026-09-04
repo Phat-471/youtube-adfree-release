@@ -1,0 +1,6 @@
+{
+  "versionCode": 11,
+  "versionName": "1.1.0",
+  "changelog": "Bản Siêu Nâng Cấp Giao Diện & Tính Năng Lớn (v1.1.0):\n- Khắc Phục Lỗi Màn Hình Tắt & 1080p: Đã xử lý triệt để lỗi tự tắt màn hình khi xem trực tiếp lâu; tối ưu phát 1080p mượt mà không bị treo hay mất tiếng; khung chat mượt không chớp tối.\n- Tải Xuống Ngoại Tuyến (Offline Download): Tải Video MP4 HD hoặc Âm thanh M4A nghe ngầm khi không có mạng.\n- YouTube Shorts Vuốt Dọc: Trải nghiệm video ngắn cuộn dọc toàn màn hình, thả tim kép sống động.\n- Đăng Ký Kênh Cục Bộ: Theo dõi kênh yêu thích ngay trên máy không cần đăng nhập tài khoản Google.\n- Tự Động Bỏ Qua Tài Trợ (SponsorBlock): Tự động phát hiện và nhảy qua các phân đoạn quảng cáo của nhà tài trợ.",
+  "downloadUrl": "https://github.com/Phat-471/youtube-adfree/releases/download/v1.1.0/app-debug.apk"
+}
