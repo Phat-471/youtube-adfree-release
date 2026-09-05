@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.3.1",
-  "changelog": "Bản Khắc Phục Lỗi Cập Nhật Phát Tube (v1.3.1):\n- Sửa triệt để lỗi 'Ứng dụng chưa được cài đặt' khi cập nhật tự động nhờ đồng bộ hóa chữ ký số Keystore.\n- Tối ưu quyền cài đặt APK (grantUriPermission & explicit read flags) tương thích tốt trên Android 13, 14, 15.\n- Giữ nguyên toàn bộ tính năng Phát Tube: Xem Shorts, Tải ngoại tuyến MP4/M4A, Kênh đăng ký, Bỏ qua tài trợ SponsorBlock.",
-  "downloadUrl": "https://github.com/Phat-471/youtube-adfree-release/releases/download/v1.3.1/app-debug.apk"
+  "versionCode": 15,
+  "versionName": "1.4.0",
+  "changelog": "Bản Cập Nhật Lớn Phát Tube (v1.4.0):\n- Đồng bộ Feed Cache 0ms & Kéo vuốt làm mới (Pull-to-refresh) siêu mượt cho Kênh đăng ký và Khám phá.\n- Gợi ý từ khóa tìm kiếm theo thời gian thực (Real-time Suggestions) chuẩn YouTube kèm nút chèn từ khóa nhanh.\n- Tự động ngắt tiếng Shorts khi chuyển tab & thanh thời lượng thời gian thực ở đáy video ngắn.\n- Hỗ trợ Đăng nhập tài khoản Google / YouTube chính thức qua WebView bảo mật.\n- Chuẩn hóa toàn diện Design System (Dark AMOLED & Light Mode) với viền kính siêu mỏng.",
+  "downloadUrl": "https://github.com/Phat-471/youtube-adfree-release/releases/download/v1.4.0/app-debug.apk"
 }
