@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.4.0",
-  "changelog": "Bản Cập Nhật Lớn Phát Tube (v1.4.0):\n- Đồng bộ Feed Cache 0ms & Kéo vuốt làm mới (Pull-to-refresh) siêu mượt cho Kênh đăng ký và Khám phá.\n- Gợi ý từ khóa tìm kiếm theo thời gian thực (Real-time Suggestions) chuẩn YouTube kèm nút chèn từ khóa nhanh.\n- Tự động ngắt tiếng Shorts khi chuyển tab & thanh thời lượng thời gian thực ở đáy video ngắn.\n- Hỗ trợ Đăng nhập tài khoản Google / YouTube chính thức qua WebView bảo mật.\n- Chuẩn hóa toàn diện Design System (Dark AMOLED & Light Mode) với viền kính siêu mỏng.",
+  "versionCode": 16,
+  "versionName": "1.4.1",
+  "changelog": "Bản Cập Nhật Tối Ưu Trang Tài Khoản (v1.4.1):\n- Tối ưu hóa toàn diện Trang Tài Khoản (YouScreen) tương thích hoàn hảo Dark AMOLED & Clean Light Mode.\n- Bảng Thống Kê Hoạt Động Thông Minh 4 ô (Đã xem, Thời lượng, Yêu thích, Đã tải) truy cập nhanh 1 chạm.\n- Bổ sung công cụ Dọn dẹp bộ nhớ đệm (Cache Cleaner) giải phóng RAM & làm sạch cache feed/ảnh.\n- Mở trực tiếp Màn hình Kênh YouTuber (Channel Detail) khi chạm vào kênh đang theo dõi.\n- Tiện ích Kiểm tra cập nhật ứng dụng thời gian thực với trạng thái loading trực quan.\n- Hỗ trợ đổi tên hiển thị cá nhân hóa cho người dùng Khách.",
   "downloadUrl": "https://raw.githubusercontent.com/Phat-471/youtube-adfree-release/main/app-debug.apk"
 }
