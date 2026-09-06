@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "1.4.4",
-  "changelog": "Bản Cập Nhật Phát Tube v1.4.4:\n- Sửa lỗi kéo xuống làm mới (Pull-to-refresh) bị hiện một cục trắng thô kệch: Tinh chỉnh lại bong bóng xoay tròn hiện đại chuẩn YouTube AMOLED, mềm mại và không còn bị chói lóa.\n- Tải và hiển thị ảnh đại diện (Avatar) thực tế của kênh trên toàn bộ ứng dụng: thẻ video Trang chủ, thẻ lưới, màn hình phát video và mục Khám phá.\n- Nâng cấp trải nghiệm YouTube Shorts đỉnh cao: Ghép luồng âm thanh sống động (không còn bị mất tiếng), khung hình tràn viền dọc 100% như TikTok, hiển thị avatar tác giả sắc nét, tự động tạm dừng nhạc nền khi vào Shorts.\n- Tối ưu chất lượng ảnh bìa video 16:9 sắc nét và hiển thị thời gian đăng video.",
+  "versionCode": 20,
+  "versionName": "1.4.5",
+  "changelog": "Bản Cập Nhật Phát Tube v1.4.5:\n- Khắc phục triệt để lỗi phát Playlist: Tự động chuyển bài mượt mà khi hết video, chống kích hoạt lặp sự kiện và tự động bỏ qua các bài hát bị lỗi để nhạc không bị dừng.\n- Sửa lỗi cấu hình phát video & xem chất lượng cao (1080p/720p): Ưu tiên bộ giải mã phần cứng H.264/AVC tương thích 100% mọi dòng máy Android, ghép nối luồng âm thanh và hình ảnh hoàn hảo.\n- Loại bỏ lỗi rớt mạng (lỗi connect): Tích hợp OkHttp DataSource ưu tiên IPv4 mạng 4G/5G, tải video siêu tốc <50ms.\n- Tính năng mới - Tìm kiếm thời gian thực (Realtime Search As-You-Type): Hiển thị ngay video kết quả trực tiếp và chip từ khóa gợi ý ngay khi đang gõ chữ mà không cần bấm phím Enter.\n- Bổ sung mục 'Nội dung bạn hay xem': Tự động gợi ý các video, bài hát người dùng thường xuyên nghe lại tại Trang chủ và Tìm kiếm.\n- Hiển thị thanh tiến trình đã xem (Watch Progress Bar) màu đỏ chuẩn YouTube trên ảnh thumbnail mọi video đã xem dở.",
   "downloadUrl": "https://raw.githubusercontent.com/Phat-471/youtube-adfree-release/main/app-debug.apk"
 }
