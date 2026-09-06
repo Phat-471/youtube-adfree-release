@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "1.4.2",
-  "changelog": "Bản Cập Nhật Tính Năng Mới YouTube Smart Mix (v1.4.2):\n- Tính năng Tuyển tập / Danh sách kết hợp (YouTube Mix) tự động gom các bài hát cùng thể loại, nghệ sĩ tương tự và trending.\n- Thẻ Tuyển tập với huy hiệu ((•)) Tuyển tập và danh sách nghệ sĩ chuẩn giao diện YouTube.\n- Thêm tab 'Danh sách kết hợp' trên thanh danh mục: Tuyển tập cá nhân, thể loại yêu thích (Ballad, Nhạc trẻ, Lofi, Remix) & Thịnh hành.\n- Tự động phát liên tục toàn bộ playlist không bị ngắt quãng.",
+  "versionCode": 18,
+  "versionName": "1.4.3",
+  "changelog": "Bản Cập Nhật Phát Tube v1.4.3:\n- Sửa triệt để lỗi video trực tiếp đã kết thúc stream không xem lại được: Tự động chuyển thành video bình thường (VOD), hiển thị đầy đủ thanh tua Seekbar, thời lượng tổng và phát mượt mà có cả tiếng và hình.\n- Sửa lỗi mục Âm nhạc chỉ hiển thị nhạc remix: Cập nhật kho nhạc phong phú đa dạng (V-Pop, MV Official, Ballad, Pop, Acoustic).\n- Chuẩn hóa Tuyển tập (YouTube Mix): Tích hợp bộ lọc âm nhạc thông minh, loại bỏ hoàn toàn video thời sự/bóng đá/review/game; bổ sung nút 'Phát Tuyển tập' ngay trong menu video.",
   "downloadUrl": "https://raw.githubusercontent.com/Phat-471/youtube-adfree-release/main/app-debug.apk"
 }
