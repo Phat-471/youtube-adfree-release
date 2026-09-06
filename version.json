@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "1.4.9",
-  "changelog": "Bản Cập Nhật Phát Tube v1.4.9:\n- Sửa triệt để lỗi tự thoát ứng dụng (văng app/crash) khi bấm vào xem video trong lịch sử (kể cả video đang xem dở hoặc video cũ).\n- Khắc phục hoàn toàn lỗi xem video 1440p60 (2K) & 4K: Ưu tiên luồng SDR 8-bit VP9 tương thích phần cứng 100%, nạp chỉ 1-2s là phát ngay như YouTube chính thức.\n- Loại bỏ timeout ngắt luồng của OkHttp để xem video dài chất lượng cao không bị gián đoạn hay tự hạ về Auto.\n- Phân biệt rõ ràng nhãn SDR và HDR trong menu cài đặt chất lượng video.",
+  "versionCode": 25,
+  "versionName": "1.5.0",
+  "changelog": "Bản Cập Nhật Phát Tube v1.5.0:\n- Hạ thấp thanh công cụ & nút chỉnh chất lượng video trên cùng xuống 20% giúp thao tác dễ dàng, không bị cấn viền màn hình hay camera nốt ruồi.\n- Nâng cấp mục Shorts đồng bộ chuẩn YouTube: Hỗ trợ bóc tách reelItemRenderer, phân loại video ngắn chuẩn xác, cuộn vô tận tự động tải thêm video mượt mà và nút làm mới/đồng bộ nhanh.\n- Chuyển đổi giữa các tab (Trang chủ, Shorts, Đăng ký, Khám phá, Bạn) tức thì 0ms không bao giờ bị load lại nội dung, giữ nguyên 100% vị trí cuộn và danh sách đang xem.",
   "downloadUrl": "https://raw.githubusercontent.com/Phat-471/youtube-adfree-release/main/app-debug.apk"
 }
