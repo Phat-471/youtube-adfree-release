@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "1.4.3",
-  "changelog": "Bản Cập Nhật Phát Tube v1.4.3:\n- Sửa triệt để lỗi video trực tiếp đã kết thúc stream không xem lại được: Tự động chuyển thành video bình thường (VOD), hiển thị đầy đủ thanh tua Seekbar, thời lượng tổng và phát mượt mà có cả tiếng và hình.\n- Sửa lỗi mục Âm nhạc chỉ hiển thị nhạc remix: Cập nhật kho nhạc phong phú đa dạng (V-Pop, MV Official, Ballad, Pop, Acoustic).\n- Chuẩn hóa Tuyển tập (YouTube Mix): Tích hợp bộ lọc âm nhạc thông minh, loại bỏ hoàn toàn video thời sự/bóng đá/review/game; bổ sung nút 'Phát Tuyển tập' ngay trong menu video.",
+  "versionCode": 19,
+  "versionName": "1.4.4",
+  "changelog": "Bản Cập Nhật Phát Tube v1.4.4:\n- Sửa lỗi kéo xuống làm mới (Pull-to-refresh) bị hiện một cục trắng thô kệch: Tinh chỉnh lại bong bóng xoay tròn hiện đại chuẩn YouTube AMOLED, mềm mại và không còn bị chói lóa.\n- Tải và hiển thị ảnh đại diện (Avatar) thực tế của kênh trên toàn bộ ứng dụng: thẻ video Trang chủ, thẻ lưới, màn hình phát video và mục Khám phá.\n- Nâng cấp trải nghiệm YouTube Shorts đỉnh cao: Ghép luồng âm thanh sống động (không còn bị mất tiếng), khung hình tràn viền dọc 100% như TikTok, hiển thị avatar tác giả sắc nét, tự động tạm dừng nhạc nền khi vào Shorts.\n- Tối ưu chất lượng ảnh bìa video 16:9 sắc nét và hiển thị thời gian đăng video.",
   "downloadUrl": "https://raw.githubusercontent.com/Phat-471/youtube-adfree-release/main/app-debug.apk"
 }
