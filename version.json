@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "1.4.6",
-  "changelog": "Bản Cập Nhật Phát Tube v1.4.6:\n- Chất lượng video đỉnh cao: Tối ưu chọn chất lượng 1080p/720p/480p thực sự hoạt động mượt mà; ưu tiên giải mã phần cứng H.264 tránh lỗi giật lag; hiển thị huy hiệu codec (H.264 / VP9 / AV1) trực quan trong menu chọn chất lượng.\n- Tối ưu giao diện Trình phát (Player): Thanh tiêu đề thu gọn hiển thị tên bài tinh tế; thiết kế lại thứ tự các nút chức năng (Thích, Audio, Tốc độ, Chất lượng, Tải về...); thẻ mô tả video thu gọn gọn gàng.\n- Danh sách phát tích hợp trong Player (Playlist Queue BottomSheet): Bấm vào tên danh sách phát để xem toàn bộ danh sách, bài đang phát được đánh dấu đỏ nổi bật, chạm để đổi bài ngay lập tức.\n- Chỉ báo 'Đang phát' tại chi tiết Playlist: Hiển thị huy hiệu Đang phát cho danh sách và bài hát đang nghe trong PlaylistDetailScreen.\n- Bộ lọc & sắp xếp Tìm kiếm thông minh: Lọc nhanh theo Video, Âm nhạc, Trực tiếp (Live), Shorts; Sắp xếp theo Độ liên quan, Ngày tải lên, Lượt xem.",
+  "versionCode": 22,
+  "versionName": "1.4.7",
+  "changelog": "Bản Cập Nhật Phát Tube v1.4.7:\n- Khắc phục triệt để lỗi vòng tròn trắng xuất hiện khi reload hoặc tải trang.\n- Thiết kế lại Trình phát Video (Player) chuẩn YouTube: các phím điều khiển, thời lượng và thanh trượt tua nằm trực tiếp trên video.\n- Tự động ẩn phím điều khiển sau 15 giây không tương tác, chạm vào màn hình để hiện lại; hiển thị thanh tiến trình đỏ tinh tế khi đang phát.\n- Loại bỏ cụm phím điều khiển và seekbar trùng lặp ở dưới video, tối ưu diện tích và độ mượt mà.",
   "downloadUrl": "https://raw.githubusercontent.com/Phat-471/youtube-adfree-release/main/app-debug.apk"
 }
