@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "1.4.8",
-  "changelog": "Bản Cập Nhật Phát Tube v1.4.8:\n- Hỗ trợ chất lượng video đỉnh cao 1440p60 (2K) và 2160p (4K Ultra HD) với cơ chế giải mã phần mềm/phần cứng dự phòng thông minh (Decoder Fallback), không lo giật lag hay thoát về Auto.\n- Cài đặt tùy biến Trình phát & Điều khiển: Cho phép người dùng tùy chọn thời gian tự ẩn phím điều khiển (3s, 5s, 10s, 15s, 30s hoặc Không bao giờ ẩn).\n- Tùy biến giao diện video: Bật/tắt thanh tiến trình đỏ siêu mỏng, phím tốc độ nhanh, phím PiP, huy hiệu chất lượng & codec trên video.\n- Cài đặt chất lượng video phát mặc định (Tự động, 4K, 2K, 1080p, 720p, 480p).",
+  "versionCode": 24,
+  "versionName": "1.4.9",
+  "changelog": "Bản Cập Nhật Phát Tube v1.4.9:\n- Sửa triệt để lỗi tự thoát ứng dụng (văng app/crash) khi bấm vào xem video trong lịch sử (kể cả video đang xem dở hoặc video cũ).\n- Khắc phục hoàn toàn lỗi xem video 1440p60 (2K) & 4K: Ưu tiên luồng SDR 8-bit VP9 tương thích phần cứng 100%, nạp chỉ 1-2s là phát ngay như YouTube chính thức.\n- Loại bỏ timeout ngắt luồng của OkHttp để xem video dài chất lượng cao không bị gián đoạn hay tự hạ về Auto.\n- Phân biệt rõ ràng nhãn SDR và HDR trong menu cài đặt chất lượng video.",
   "downloadUrl": "https://raw.githubusercontent.com/Phat-471/youtube-adfree-release/main/app-debug.apk"
 }
