@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "1.4.7",
-  "changelog": "Bản Cập Nhật Phát Tube v1.4.7:\n- Khắc phục triệt để lỗi vòng tròn trắng xuất hiện khi reload hoặc tải trang.\n- Thiết kế lại Trình phát Video (Player) chuẩn YouTube: các phím điều khiển, thời lượng và thanh trượt tua nằm trực tiếp trên video.\n- Tự động ẩn phím điều khiển sau 15 giây không tương tác, chạm vào màn hình để hiện lại; hiển thị thanh tiến trình đỏ tinh tế khi đang phát.\n- Loại bỏ cụm phím điều khiển và seekbar trùng lặp ở dưới video, tối ưu diện tích và độ mượt mà.",
+  "versionCode": 23,
+  "versionName": "1.4.8",
+  "changelog": "Bản Cập Nhật Phát Tube v1.4.8:\n- Hỗ trợ chất lượng video đỉnh cao 1440p60 (2K) và 2160p (4K Ultra HD) với cơ chế giải mã phần mềm/phần cứng dự phòng thông minh (Decoder Fallback), không lo giật lag hay thoát về Auto.\n- Cài đặt tùy biến Trình phát & Điều khiển: Cho phép người dùng tùy chọn thời gian tự ẩn phím điều khiển (3s, 5s, 10s, 15s, 30s hoặc Không bao giờ ẩn).\n- Tùy biến giao diện video: Bật/tắt thanh tiến trình đỏ siêu mỏng, phím tốc độ nhanh, phím PiP, huy hiệu chất lượng & codec trên video.\n- Cài đặt chất lượng video phát mặc định (Tự động, 4K, 2K, 1080p, 720p, 480p).",
   "downloadUrl": "https://raw.githubusercontent.com/Phat-471/youtube-adfree-release/main/app-debug.apk"
 }
