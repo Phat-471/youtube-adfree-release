@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "1.5.3",
-  "changelog": "Bản Cập Nhật Khẩn Cấp Phát Tube v1.5.3:\n- Khắc phục triệt để lỗi tự văng / crash khi mở ứng dụng hoặc mở video.\n- Sửa lỗi không phát được 1080p: Cơ chế chờ kết nối thông minh đảm bảo 100% video nạp chuẩn 1080p Full HD siêu nét.\n- Tương thích hoàn hảo trên các dòng máy Samsung Galaxy S24+ / Ultra và mọi thiết bị Android.",
+  "versionCode": 29,
+  "versionName": "1.5.4",
+  "changelog": "Bản Cập Nhật Tối Ưu Hiệu Năng & Phụ Đề v1.5.4:\n- Tối ưu khởi động video siêu tốc <500ms với công nghệ First-Chunk Preload (200KB 1080p, 500KB 1440p).\n- Kiểm tra giải mã phần cứng thông minh: Máy yếu tự động chọn codec nhẹ (H.264/AVC) tránh văng app/OOM.\n- Hỗ trợ xem mượt mà lên tới 1440p60 (2K) khi mạng mạnh.\n- Bổ sung tùy chọn 'Khóa chất lượng' cố định độ phân giải theo ý muốn.\n- Tự động nạp phụ đề (Closed Captions) đa ngôn ngữ đồng bộ theo thời gian thực.",
   "downloadUrl": "https://raw.githubusercontent.com/Phat-471/youtube-adfree-release/main/app-debug.apk"
 }
