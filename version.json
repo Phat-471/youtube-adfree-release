@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "1.5.1",
-  "changelog": "Bản Cập Nhật Phát Tube v1.5.1:\n- Tối ưu mặc định chuẩn 1080p Full HD (H.264/AVC) siêu nét cho mọi video theo đúng xu hướng xem hiện đại, nạp tức thì trong 1s.\n- Sửa triệt để lỗi tự văng ứng dụng (crash/tự tắt) khi chuyển đổi chất lượng video bằng cơ chế ghép luồng MergingMediaSource PTS tự nhiên và chống tràn RAM.\n- Tự động hạ cấp an toàn về 1080p nếu thiết bị phần cứng không hỗ trợ giải mã 2K/4K, tuyệt đối không bị gián đoạn hay đóng app.",
+  "versionCode": 27,
+  "versionName": "1.5.2",
+  "changelog": "Bản Cập Nhật Phát Tube v1.5.2:\n- Hỗ trợ xem 2K 60fps (1440p60) và 4K siêu nét: Ưu tiên codec VP9 SDR kết hợp âm thanh WebM Opus 160kbps, phát siêu mượt không giật lag.\n- Khắc phục triệt để lỗi tự tắt / văng app trên các dòng máy màn hình 120Hz (Samsung Galaxy S24+ / Ultra...) khi chuyển chất lượng nhờ kiến trúc TextureView và Asynchronous MediaCodec.\n- Nâng cấp bộ đệm video lên 90s cho video bitrate cao và giải phóng decoder phần cứng an toàn trước khi nạp độ phân giải mới.",
   "downloadUrl": "https://raw.githubusercontent.com/Phat-471/youtube-adfree-release/main/app-debug.apk"
 }
