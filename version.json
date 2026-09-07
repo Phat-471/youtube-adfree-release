@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "1.5.2",
-  "changelog": "Bản Cập Nhật Phát Tube v1.5.2:\n- Hỗ trợ xem 2K 60fps (1440p60) và 4K siêu nét: Ưu tiên codec VP9 SDR kết hợp âm thanh WebM Opus 160kbps, phát siêu mượt không giật lag.\n- Khắc phục triệt để lỗi tự tắt / văng app trên các dòng máy màn hình 120Hz (Samsung Galaxy S24+ / Ultra...) khi chuyển chất lượng nhờ kiến trúc TextureView và Asynchronous MediaCodec.\n- Nâng cấp bộ đệm video lên 90s cho video bitrate cao và giải phóng decoder phần cứng an toàn trước khi nạp độ phân giải mới.",
+  "versionCode": 28,
+  "versionName": "1.5.3",
+  "changelog": "Bản Cập Nhật Khẩn Cấp Phát Tube v1.5.3:\n- Khắc phục triệt để lỗi tự văng / crash khi mở ứng dụng hoặc mở video.\n- Sửa lỗi không phát được 1080p: Cơ chế chờ kết nối thông minh đảm bảo 100% video nạp chuẩn 1080p Full HD siêu nét.\n- Tương thích hoàn hảo trên các dòng máy Samsung Galaxy S24+ / Ultra và mọi thiết bị Android.",
   "downloadUrl": "https://raw.githubusercontent.com/Phat-471/youtube-adfree-release/main/app-debug.apk"
 }
