@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "1.5.5",
-  "changelog": "Bản Cập Nhật Bình Luận & Phản Hồi v1.5.5:\n- Hỗ trợ đọc toàn bộ Bình luận (Comments) và Câu trả lời (Replies) của video qua BottomSheet mượt mà.\n- Phân trang lười (Lazy Pagination) theo thời gian thực, tiết kiệm tối đa RAM cho máy yếu (2-3GB).\n- Hiển thị đầy đủ huy hiệu Chủ kênh, ghim bình luận, thời gian đăng và số lượt thích.\n- Thẻ xem trước bình luận nổi bật và nút mở nhanh trên thanh công cụ phát video.",
+  "versionCode": 31,
+  "versionName": "1.5.6",
+  "changelog": "Bản Cập Nhật Ổn Định & Khắc Phục Sự Cố v1.5.6:\n- Sửa triệt để lỗi bấm vào video ứng dụng bị tự thoát ra màn hình chính.\n- Tối ưu hóa khởi tạo ExoPlayer MediaSession chuẩn xác, loại bỏ hoàn toàn UninitializedPropertyAccessException.\n- Khắc phục triệt để lỗi phân tích định dạng phụ đề WebVTT trên toàn bộ luồng phát.\n- Tăng cường luồng phát trực tiếp kết nối mạng mượt mà, hạn chế tối đa nghẽn socket hoặc giật lag khi tải video.\n- Bổ sung cơ chế tự phục hồi và bảo vệ đa tầng chống crash trên mọi dòng máy Android.",
   "downloadUrl": "https://raw.githubusercontent.com/Phat-471/youtube-adfree-release/main/app-debug.apk"
 }
