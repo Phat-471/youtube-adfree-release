@@ -1,6 +1,6 @@
 {
   "versionCode": 31,
   "versionName": "1.5.6",
-  "changelog": "Bản Cập Nhật Ổn Định & Khắc Phục Sự Cố v1.5.6:\n- Sửa triệt để lỗi bấm vào video ứng dụng bị tự thoát ra màn hình chính.\n- Tối ưu hóa khởi tạo ExoPlayer MediaSession chuẩn xác, loại bỏ hoàn toàn UninitializedPropertyAccessException.\n- Khắc phục triệt để lỗi phân tích định dạng phụ đề WebVTT trên toàn bộ luồng phát.\n- Tăng cường luồng phát trực tiếp kết nối mạng mượt mà, hạn chế tối đa nghẽn socket hoặc giật lag khi tải video.\n- Bổ sung cơ chế tự phục hồi và bảo vệ đa tầng chống crash trên mọi dòng máy Android.",
+  "changelog": "Bản Cập Nhật Ổn Định & Khắc Phục Sự Cố v1.5.6:\n- Sửa triệt để lỗi bấm vào video bất kỳ ứng dụng bị văng/tắt hẳn app.\n- Trang bị CrashGuard độc quyền bảo vệ tiến trình và Main Looper chạy liên tục 24/7.\n- Tối ưu hóa gắn trực tiếp ExoPlayer vào SurfaceView, xử lý mượt mà và không độ trễ.\n- Thêm bảng cập nhật thông minh hiện đại UI/UX Pro Max với hiệu ứng lượn sóng Neon.\n- Cơ chế tự động chuyển đổi Trình phát Web AdBlock dự phòng nếu luồng mạng gián đoạn.",
   "downloadUrl": "https://raw.githubusercontent.com/Phat-471/youtube-adfree-release/main/app-debug.apk"
 }
