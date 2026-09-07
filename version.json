@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "1.5.4",
-  "changelog": "Bản Cập Nhật Tối Ưu Hiệu Năng & Phụ Đề v1.5.4:\n- Tối ưu khởi động video siêu tốc <500ms với công nghệ First-Chunk Preload (200KB 1080p, 500KB 1440p).\n- Kiểm tra giải mã phần cứng thông minh: Máy yếu tự động chọn codec nhẹ (H.264/AVC) tránh văng app/OOM.\n- Hỗ trợ xem mượt mà lên tới 1440p60 (2K) khi mạng mạnh.\n- Bổ sung tùy chọn 'Khóa chất lượng' cố định độ phân giải theo ý muốn.\n- Tự động nạp phụ đề (Closed Captions) đa ngôn ngữ đồng bộ theo thời gian thực.",
+  "versionCode": 30,
+  "versionName": "1.5.5",
+  "changelog": "Bản Cập Nhật Bình Luận & Phản Hồi v1.5.5:\n- Hỗ trợ đọc toàn bộ Bình luận (Comments) và Câu trả lời (Replies) của video qua BottomSheet mượt mà.\n- Phân trang lười (Lazy Pagination) theo thời gian thực, tiết kiệm tối đa RAM cho máy yếu (2-3GB).\n- Hiển thị đầy đủ huy hiệu Chủ kênh, ghim bình luận, thời gian đăng và số lượt thích.\n- Thẻ xem trước bình luận nổi bật và nút mở nhanh trên thanh công cụ phát video.",
   "downloadUrl": "https://raw.githubusercontent.com/Phat-471/youtube-adfree-release/main/app-debug.apk"
 }
