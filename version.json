@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "1.5.7",
-  "changelog": "Bản Cập Nhật Ổn Định & Khắc Phục Sự Cố v1.5.7:\n- Sửa triệt để lỗi bấm vào video bất kỳ ứng dụng bị văng/tắt hẳn app.\n- Trang bị CrashGuard độc quyền bảo vệ tiến trình và Main Looper chạy liên tục 24/7.\n- Tối ưu hóa gắn trực tiếp ExoPlayer vào SurfaceView, xử lý mượt mà và không độ trễ.\n- Thêm bảng cập nhật thông minh hiện đại UI/UX Pro Max với hiệu ứng lượn sóng Neon.\n- Cơ chế tự động chuyển đổi Trình phát Web AdBlock dự phòng nếu luồng mạng gián đoạn.",
+  "versionCode": 33,
+  "versionName": "1.5.8",
+  "changelog": "Bản Cập Nhật Khắc Phục Phát Video & Hình Ảnh v1.5.8:\n- Sửa triệt để lỗi không xem được video, bấm vào tự thoát ứng dụng hoặc màn hình đen không có hình.\n- Nâng cấp luồng stream Innertube Android Client mới nhất (21.26.364) giúp xem video siêu mượt, đầy đủ hình ảnh và âm thanh chất lượng cao.\n- Cải tiến trình phát dự phòng Web Player không bị lỗi 153 của YouTube, hỗ trợ chuyển đổi linh hoạt.\n- Sửa lỗi đệ quy sự kiện lỗi trình phát gây quá tải và tắt app đột ngột.",
   "downloadUrl": "https://raw.githubusercontent.com/Phat-471/youtube-adfree-release/main/app-debug.apk"
 }
