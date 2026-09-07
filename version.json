@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "1.5.0",
-  "changelog": "Bản Cập Nhật Phát Tube v1.5.0:\n- Hạ thấp thanh công cụ & nút chỉnh chất lượng video trên cùng xuống 20% giúp thao tác dễ dàng, không bị cấn viền màn hình hay camera nốt ruồi.\n- Nâng cấp mục Shorts đồng bộ chuẩn YouTube: Hỗ trợ bóc tách reelItemRenderer, phân loại video ngắn chuẩn xác, cuộn vô tận tự động tải thêm video mượt mà và nút làm mới/đồng bộ nhanh.\n- Chuyển đổi giữa các tab (Trang chủ, Shorts, Đăng ký, Khám phá, Bạn) tức thì 0ms không bao giờ bị load lại nội dung, giữ nguyên 100% vị trí cuộn và danh sách đang xem.",
+  "versionCode": 26,
+  "versionName": "1.5.1",
+  "changelog": "Bản Cập Nhật Phát Tube v1.5.1:\n- Tối ưu mặc định chuẩn 1080p Full HD (H.264/AVC) siêu nét cho mọi video theo đúng xu hướng xem hiện đại, nạp tức thì trong 1s.\n- Sửa triệt để lỗi tự văng ứng dụng (crash/tự tắt) khi chuyển đổi chất lượng video bằng cơ chế ghép luồng MergingMediaSource PTS tự nhiên và chống tràn RAM.\n- Tự động hạ cấp an toàn về 1080p nếu thiết bị phần cứng không hỗ trợ giải mã 2K/4K, tuyệt đối không bị gián đoạn hay đóng app.",
   "downloadUrl": "https://raw.githubusercontent.com/Phat-471/youtube-adfree-release/main/app-debug.apk"
 }
