@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "1.5.8",
-  "changelog": "Bản Cập Nhật Khắc Phục Phát Video & Hình Ảnh v1.5.8:\n- Sửa triệt để lỗi không xem được video, bấm vào tự thoát ứng dụng hoặc màn hình đen không có hình.\n- Nâng cấp luồng stream Innertube Android Client mới nhất (21.26.364) giúp xem video siêu mượt, đầy đủ hình ảnh và âm thanh chất lượng cao.\n- Cải tiến trình phát dự phòng Web Player không bị lỗi 153 của YouTube, hỗ trợ chuyển đổi linh hoạt.\n- Sửa lỗi đệ quy sự kiện lỗi trình phát gây quá tải và tắt app đột ngột.",
+  "versionCode": 34,
+  "versionName": "1.5.9",
+  "changelog": "Bản Cập Nhật Nâng Cấp Chất Lượng Video v1.5.9:\n- Hỗ trợ phát video 4K (2160p) và 2K (1440p) trên thiết bị hỗ trợ.\n- Chuyển sang VISIONOS client để lấy stream chất lượng cao không bị chặn 403.\n- Tối ưu chunked download 2MB cho stream bitrate cao 4K/2K.\n- Cải thiện fallback thông minh: 4K → 2K → 1080p khi thiết bị không hỗ trợ.\n- Sửa lỗi video bị cắt sau 35-40 giây ở chất lượng cao.\n- Nâng cấp codec VP9/AV1 hardware decoder cho độ phân giải cao.",
   "downloadUrl": "https://raw.githubusercontent.com/Phat-471/youtube-adfree-release/main/app-debug.apk"
 }
