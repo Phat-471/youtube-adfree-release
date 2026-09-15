@@ -1,6 +1,6 @@
 {
   "versionCode": 35,
-  "versionName": "1.6.0",
-  "changelog": "Bản Cập Nhật v1.6.0 - Tối Ưu Giao Diện & Trải Nghiệm Nghe Nhìn Đỉnh Cao:\n- Thuật toán gợi ý Trang chủ 80/20: 80% kênh ruột yêu thích + 20% khám phá mới cùng thể loại.\n- Tự động tạo Daily Mix: Tuyển tập ca khúc chuẩn gu hòa trộn 25+ bài hát quen và mới.\n- Tải trước thông minh (Zero-Latency): Bấm bài là phát ngay trong 0s, không giật lag.\n- Hẹn giờ ngủ Fade-out: Âm lượng nhỏ dần trong 30s cuối, bổ sung chế độ 'Hết bài này'.\n- Chuẩn hóa âm lượng ngầm: Cân bằng âm lượng các video to/nhỏ khác nhau, chống giật mình.\n- Tinh gọn giao diện: Rút gọn BottomNav 4 tab, tối giản thanh công cụ và Player.",
+  "versionName": "1.6",
+  "changelog": "Bản Cập Nhật v1.6 - Tối Ưu Giao Diện & Trải Nghiệm Nghe Nhìn Đỉnh Cao:\n- Thuật toán gợi ý Trang chủ 80/20: 80% kênh ruột yêu thích + 20% khám phá mới cùng thể loại.\n- Tự động tạo Daily Mix: Tuyển tập ca khúc chuẩn gu hòa trộn 25+ bài hát quen và mới.\n- Tải trước thông minh (Zero-Latency): Bấm bài là phát ngay trong 0s, không giật lag.\n- Hẹn giờ ngủ Fade-out: Âm lượng nhỏ dần trong 30s cuối, bổ sung chế độ 'Hết bài này'.\n- Chuẩn hóa âm lượng ngầm: Cân bằng âm lượng các video to/nhỏ khác nhau, chống giật mình.\n- Tinh gọn giao diện: Rút gọn BottomNav 4 tab, tối giản thanh công cụ và Player.",
   "downloadUrl": "https://raw.githubusercontent.com/Phat-471/youtube-adfree-release/main/app-debug.apk"
 }
