@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "1.5.9",
-  "changelog": "Bản Cập Nhật Nâng Cấp Chất Lượng Video v1.5.9:\n- Hỗ trợ phát video 4K (2160p) và 2K (1440p) trên thiết bị hỗ trợ.\n- Chuyển sang VISIONOS client để lấy stream chất lượng cao không bị chặn 403.\n- Tối ưu chunked download 2MB cho stream bitrate cao 4K/2K.\n- Cải thiện fallback thông minh: 4K → 2K → 1080p khi thiết bị không hỗ trợ.\n- Sửa lỗi video bị cắt sau 35-40 giây ở chất lượng cao.\n- Nâng cấp codec VP9/AV1 hardware decoder cho độ phân giải cao.",
+  "versionCode": 35,
+  "versionName": "1.6.0",
+  "changelog": "Bản Cập Nhật v1.6.0 - Tối Ưu Giao Diện & Trải Nghiệm Nghe Nhìn Đỉnh Cao:\n- Thuật toán gợi ý Trang chủ 80/20: 80% kênh ruột yêu thích + 20% khám phá mới cùng thể loại.\n- Tự động tạo Daily Mix: Tuyển tập ca khúc chuẩn gu hòa trộn 25+ bài hát quen và mới.\n- Tải trước thông minh (Zero-Latency): Bấm bài là phát ngay trong 0s, không giật lag.\n- Hẹn giờ ngủ Fade-out: Âm lượng nhỏ dần trong 30s cuối, bổ sung chế độ 'Hết bài này'.\n- Chuẩn hóa âm lượng ngầm: Cân bằng âm lượng các video to/nhỏ khác nhau, chống giật mình.\n- Tinh gọn giao diện: Rút gọn BottomNav 4 tab, tối giản thanh công cụ và Player.",
   "downloadUrl": "https://raw.githubusercontent.com/Phat-471/youtube-adfree-release/main/app-debug.apk"
 }
