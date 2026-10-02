@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "1.7",
-  "changelog": "Bản Cập Nhật v1.7 - Tối Ưu Tỷ Lệ Gợi Ý, Chống Lặp Bài Hát & Kiểm Tra Cập Nhật:\n- Tỷ lệ gợi ý 80/20: Ưu tiên 80% là các bài hát riêng lẻ (Single track) và tối đa 20% video tuyển tập/playlist dài.\n- Chống lặp bài hát: Ngăn chặn triệt để tình trạng phát lại bài hát cùng tên do ca sĩ khác cover/remix.\n- Autoplay thông minh: Tự động chuyển tiếp sang bài hát riêng lẻ mới, không bị rơi vào video 1-2 tiếng.\n- Trộn danh sách phong phú: Tích hợp YouTube Radio Mix đồng điệu theo sở thích và nghệ sĩ.\n- Cập nhật tiện ích Cài đặt: Tích hợp nút Kiểm tra bản cập nhật và nâng cấp trực tiếp ngay trong ứng dụng.",
+  "versionCode": 37,
+  "versionName": "1.8",
+  "changelog": "Bản Cập Nhật v1.8 - Kiến trúc MVVM & Tối ưu Trình Phát:\n- MVVM: Cấu trúc lại SearchScreen, tối ưu quản lý state.\n- Trình phát: Hiển thị Thumbnail Preview khi tua video, đồng bộ thanh thời gian chính xác hơn.\n- Database: Sử dụng Room thay cho SharedPreferences giúp tăng tốc độ truy cập lịch sử, xem gần đây.",
   "downloadUrl": "https://raw.githubusercontent.com/Phat-471/youtube-adfree-release/main/app-debug.apk"
 }
