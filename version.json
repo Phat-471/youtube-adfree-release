@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "1.8",
-  "changelog": "Bản Cập Nhật v1.8 - Kiến trúc MVVM & Tối ưu Trình Phát:\n- MVVM: Cấu trúc lại SearchScreen, tối ưu quản lý state.\n- Trình phát: Hiển thị Thumbnail Preview khi tua video, đồng bộ thanh thời gian chính xác hơn.\n- Database: Sử dụng Room thay cho SharedPreferences giúp tăng tốc độ truy cập lịch sử, xem gần đây.",
-  "downloadUrl": "https://raw.githubusercontent.com/Phat-471/youtube-adfree-release/main/app-debug.apk"
+  "versionCode": 39,
+  "versionName": "1.10",
+  "changelog": "Bản cập nhật v1.10 - Đề xuất YouTube theo tài khoản:\n- Kết nối YouTube một lần, lưu phiên mã hóa và tự gia hạn.\n- Trang chủ nhận video và tuyển tập trực tiếp từ tài khoản YouTube TV.\n- Mở tuyển tập gốc, chọn bài và phát liên tục theo danh sách YouTube trả về.\n- Kéo xuống để tải mới; tách phiên theo tài khoản để tránh lẫn dữ liệu.\n- Cải tiến trang tài khoản, tìm kiếm, giao diện và trình phát.",
+  "downloadUrl": "https://github.com/Phat-471/youtube-adfree-release/releases/download/v1.10/app-debug.apk"
 }
