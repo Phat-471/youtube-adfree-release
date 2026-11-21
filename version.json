@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "1.10",
-  "changelog": "Bản cập nhật v1.10 - Đề xuất YouTube theo tài khoản:\n- Kết nối YouTube một lần, lưu phiên mã hóa và tự gia hạn.\n- Trang chủ nhận video và tuyển tập trực tiếp từ tài khoản YouTube TV.\n- Mở tuyển tập gốc, chọn bài và phát liên tục theo danh sách YouTube trả về.\n- Kéo xuống để tải mới; tách phiên theo tài khoản để tránh lẫn dữ liệu.\n- Cải tiến trang tài khoản, tìm kiếm, giao diện và trình phát.",
-  "downloadUrl": "https://github.com/Phat-471/youtube-adfree-release/releases/download/v1.10/app-debug.apk"
+  "versionCode": 40,
+  "versionName": "1.11",
+  "changelog": "Bản cập nhật v1.11 - Chuẩn hóa giao diện YouTube & Tối ưu phát video mượt mà:\n- Chuẩn hóa giao diện & nút bấm theo chuẩn YouTube: Logo YouTube đỏ đặc trưng, Top bar, Chip danh mục bo tròn chuẩn.\n- Tối ưu phát video 0ms: Tiền nạp trước (pre-buffer) đoạn đầu video kế tiếp vào RAM giúp chuyển bài tức thì không độ trễ.\n- Thao tác cử chỉ mượt mà: Chạm đúp 2 bên tua nhanh tích lũy (+10s, +20s, +30s...) kèm rung phản hồi haptic; vuốt thanh trên xuống thu nhỏ MiniPlayer.\n- Cải tiến kênh & Shorts: Click ảnh đại diện hoặc @tên kênh trong Shorts để chuyển nhanh vào trang kênh; hỗ trợ kéo vuốt làm mới dữ liệu kênh.\n- Tối ưu danh mục thịnh hành Việt Nam (Remix, Bolero, Podcast, Review Phim, Bóng đá, Thời sự).",
+  "downloadUrl": "https://raw.githubusercontent.com/Phat-471/youtube-adfree-release/main/app-debug.apk"
 }
