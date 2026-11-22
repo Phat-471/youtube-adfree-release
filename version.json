@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
-  "versionName": "1.11",
-  "changelog": "Bản cập nhật v1.11 - Chuẩn hóa giao diện YouTube & Tối ưu phát video mượt mà:\n- Chuẩn hóa giao diện & nút bấm theo chuẩn YouTube: Logo YouTube đỏ đặc trưng, Top bar, Chip danh mục bo tròn chuẩn.\n- Tối ưu phát video 0ms: Tiền nạp trước (pre-buffer) đoạn đầu video kế tiếp vào RAM giúp chuyển bài tức thì không độ trễ.\n- Thao tác cử chỉ mượt mà: Chạm đúp 2 bên tua nhanh tích lũy (+10s, +20s, +30s...) kèm rung phản hồi haptic; vuốt thanh trên xuống thu nhỏ MiniPlayer.\n- Cải tiến kênh & Shorts: Click ảnh đại diện hoặc @tên kênh trong Shorts để chuyển nhanh vào trang kênh; hỗ trợ kéo vuốt làm mới dữ liệu kênh.\n- Tối ưu danh mục thịnh hành Việt Nam (Remix, Bolero, Podcast, Review Phim, Bóng đá, Thời sự).",
+  "versionCode": 41,
+  "versionName": "1.12",
+  "changelog": "Bản cập nhật v1.12 - Giai đoạn 1 Kế hoạch dài hạn & Clone YouTube:\n- Nhấn giữ phát 2x (Hold to 2x speed): Giữ ngón tay trên video bất kỳ lúc nào để phát tốc độ 2x kèm pill hiển thị chuẩn YouTube.\n- Tự động nhận diện Phân đoạn video (Video Chapters): Trích xuất các mốc thời gian từ mô tả video, hiển thị tên chương trực tiếp trên thanh thời lượng và mở danh sách chương nhảy nhanh.\n- Chuyển đổi tỉ lệ màn hình (Aspect Ratio): Hỗ trợ chuyển đổi linh hoạt giữa Tỉ lệ gốc (Fit), Cắt vừa màn hình (Zoom) và Kéo dãn (Fill).\n- Chuẩn hóa 100% giao diện YouTube: Nút Đăng ký capsule bo tròn, màu nền đen chuẩn #0F0F0F / #272727, thanh Top bar và Bottom bar 4 tab chính thức.",
   "downloadUrl": "https://raw.githubusercontent.com/Phat-471/youtube-adfree-release/main/app-debug.apk"
 }
