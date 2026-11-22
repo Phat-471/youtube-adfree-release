@@ -1,6 +1,6 @@
 {
-  "versionCode": 41,
-  "versionName": "1.12",
-  "changelog": "Bản cập nhật v1.12 - Giai đoạn 1 Kế hoạch dài hạn & Clone YouTube:\n- Nhấn giữ phát 2x (Hold to 2x speed): Giữ ngón tay trên video bất kỳ lúc nào để phát tốc độ 2x kèm pill hiển thị chuẩn YouTube.\n- Tự động nhận diện Phân đoạn video (Video Chapters): Trích xuất các mốc thời gian từ mô tả video, hiển thị tên chương trực tiếp trên thanh thời lượng và mở danh sách chương nhảy nhanh.\n- Chuyển đổi tỉ lệ màn hình (Aspect Ratio): Hỗ trợ chuyển đổi linh hoạt giữa Tỉ lệ gốc (Fit), Cắt vừa màn hình (Zoom) và Kéo dãn (Fill).\n- Chuẩn hóa 100% giao diện YouTube: Nút Đăng ký capsule bo tròn, màu nền đen chuẩn #0F0F0F / #272727, thanh Top bar và Bottom bar 4 tab chính thức.",
+  "versionCode": 42,
+  "versionName": "1.13",
+  "changelog": "Bản cập nhật v1.13 - Sửa lỗi cập nhật Shorts & Tối ưu toàn bộ ứng dụng:\n- Khắc phục triệt để lỗi Shorts không cập nhật video mới: Hỗ trợ parser mới (shortsLockupViewModel) theo chuẩn Innertube 2026, nạp vô tận liên tục hàng chục video Shorts thịnh hành Việt Nam.\n- Tự động đồng bộ thông tin kênh thật trong Shorts: Cập nhật chính xác tên YouTuber, avatar và lượt xem theo thời gian thực.\n- Bổ sung nút Đồng bộ Shorts với cơ chế bỏ qua cache (forceRefresh) giúp lấy ngay video mới nhất khi bấm Làm mới.\n- Tối ưu tab Kênh đăng ký (Subscriptions): Lấy song song video mới nhất từ nhiều kênh đã theo dõi thay vì tìm kiếm gộp.\n- Tối ưu thanh Shorts Shelf trên Trang chủ hiển thị ngay 8 video ngắn thịnh hành.",
   "downloadUrl": "https://raw.githubusercontent.com/Phat-471/youtube-adfree-release/main/app-debug.apk"
 }
