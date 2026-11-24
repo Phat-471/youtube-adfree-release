@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "1.15",
-  "changelog": "Bản cập nhật v1.15 - Hệ thống Đa ngôn ngữ Quốc tế & Siêu tối ưu Render UI:\n- Hỗ trợ đa ngôn ngữ động (Localization): Tích hợp 5 ngôn ngữ lớn gồm Tiếng Việt (🇻🇳), English (🇺🇸), 日本語 (🇯🇵), 한국어 (🇰🇷), 中文 (🇨🇳) với cơ chế Reactive State chuyển đổi ngôn ngữ tức thì trong Cài đặt mà không cần khởi động lại ứng dụng.\n- Đồng bộ ngôn ngữ & khu vực với YouTube Innertube API (hl & gl): Tự động lấy tiêu đề, feed gợi ý và phụ đề phù hợp theo ngôn ngữ được chọn.\n- Tối ưu hóa Compose Recomposition với drawWithContent: Đưa thanh tiến trình phát video mỏng 2.5dp sang cơ chế render trực tiếp trên GPU trong draw phase, triệt tiêu 100% recomposition 60fps khi xem video.\n- Tối ưu hóa gợi ý tìm kiếm đa ngữ & thanh điều hướng đáy cập nhật trực tiếp theo từ điển AppStrings.",
+  "versionCode": 45,
+  "versionName": "1.16",
+  "changelog": "Bản cập nhật v1.16 - Khắc phục triệt để lỗi chuyển tab & Siêu tối ưu giữ nguyên Feed:\n- Khắc phục 100% lỗi chuyển sang tab Shorts rồi quay lại Trang chủ bị tải lại từ đầu: Mở rộng thời gian lưu Cache lên 30 phút, giữ nguyên vị trí cuộn và danh sách video đã nạp phản hồi 0ms tức thì.\n- Chuẩn hóa hành vi nút Trang chủ: Bấm lần 1 khi đang ở dưới feed sẽ cuộn mượt lên đỉnh mà không reload; bấm lần 2 tại đỉnh mới làm mới dữ liệu mới như YouTube thật.\n- Đồng bộ bộ nhớ đệm luồng cá nhân hóa giúp chuyển đổi linh hoạt không tốn thêm dữ liệu mạng.",
   "downloadUrl": "https://raw.githubusercontent.com/Phat-471/youtube-adfree-release/main/app-debug.apk"
 }
