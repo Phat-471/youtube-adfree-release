@@ -1,6 +1,6 @@
 {
-  "versionCode": 43,
-  "versionName": "1.14",
-  "changelog": "Bản cập nhật v1.14 - Siêu tối ưu tốc độ & Trải nghiệm mượt mà:\n- Tối ưu tìm kiếm siêu tốc: Gợi ý từ khóa phản hồi tức thì 120ms; tiền biên dịch các biểu thức Regex loại bỏ 100% độ trễ xử lý JSON.\n- Tối ưu tải Trang chủ: Giảm tải từ 12 requests song song xuống tối đa 2-3 requests, tăng tốc độ làm mới Feed lên gấp 3-4 lần, trả kết quả tức thì không còn chậm trễ.\n- Tích hợp ExoPlayer MediaCache (SSD Disk Cache 250MB): Lưu trữ phân đoạn video vào bộ nhớ đệm máy, tua lùi hoặc nghe lại bài hát đạt tốc độ >200MB/s không tốn mạng và không xoay vòng tròn.\n- Cấu hình Coil Image Cache: Phân bổ 25% RAM và 150MB Disk Cache cho ảnh thu nhỏ (thumbnails), cuộn danh sách đạt chuẩn 120fps mượt mà.",
+  "versionCode": 44,
+  "versionName": "1.15",
+  "changelog": "Bản cập nhật v1.15 - Hệ thống Đa ngôn ngữ Quốc tế & Siêu tối ưu Render UI:\n- Hỗ trợ đa ngôn ngữ động (Localization): Tích hợp 5 ngôn ngữ lớn gồm Tiếng Việt (🇻🇳), English (🇺🇸), 日本語 (🇯🇵), 한국어 (🇰🇷), 中文 (🇨🇳) với cơ chế Reactive State chuyển đổi ngôn ngữ tức thì trong Cài đặt mà không cần khởi động lại ứng dụng.\n- Đồng bộ ngôn ngữ & khu vực với YouTube Innertube API (hl & gl): Tự động lấy tiêu đề, feed gợi ý và phụ đề phù hợp theo ngôn ngữ được chọn.\n- Tối ưu hóa Compose Recomposition với drawWithContent: Đưa thanh tiến trình phát video mỏng 2.5dp sang cơ chế render trực tiếp trên GPU trong draw phase, triệt tiêu 100% recomposition 60fps khi xem video.\n- Tối ưu hóa gợi ý tìm kiếm đa ngữ & thanh điều hướng đáy cập nhật trực tiếp theo từ điển AppStrings.",
   "downloadUrl": "https://raw.githubusercontent.com/Phat-471/youtube-adfree-release/main/app-debug.apk"
 }
